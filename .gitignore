@@ -1,12 +1,2 @@
-"venv/" 
-"*.pyc" 
-"__pycache__/" 
-"venv/" 
-"*.pyc" 
-"__pycache__/" 
-"venv/" 
-"*.pyc" 
-"__pycache__/" 
-"venv/" 
-"*.pyc" 
-"__pycache__/" 
+venv/ 
+.vscode/ 

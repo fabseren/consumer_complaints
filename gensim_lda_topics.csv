@@ -1,0 +1,10 @@
+Topic,Words
+0,"0.005*""pay"" + 0.004*""credit"" + 0.004*""bank"" + 0.004*""loan"" + 0.004*""would"" + 0.003*""send"" + 0.003*""payment"" + 0.003*""mortgage"" + 0.002*""report"" + 0.002*""receive"""
+1,"0.013*""credit"" + 0.013*""payment"" + 0.011*""loan"" + 0.009*""send"" + 0.008*""pay"" + 0.007*""make"" + 0.006*""call"" + 0.006*""get"" + 0.006*""account"" + 0.006*""would"""
+2,"0.018*""call"" + 0.016*""account"" + 0.011*""would"" + 0.008*""pay"" + 0.008*""get"" + 0.007*""tell"" + 0.007*""bank"" + 0.007*""payment"" + 0.006*""time"" + 0.005*""receive"""
+3,"0.015*""credit"" + 0.011*""account"" + 0.009*""loan"" + 0.009*""company"" + 0.008*""payment"" + 0.008*""report"" + 0.008*""pay"" + 0.007*""letter"" + 0.006*""time"" + 0.006*""information"""
+4,"0.007*""mortgage"" + 0.005*""payment"" + 0.005*""make"" + 0.005*""credit"" + 0.005*""call"" + 0.004*""loan"" + 0.004*""pay"" + 0.004*""receive"" + 0.004*""tell"" + 0.004*""time"""
+5,"0.007*""loan"" + 0.004*""payment"" + 0.003*""would"" + 0.003*""call"" + 0.003*""bank"" + 0.003*""credit"" + 0.003*""receive"" + 0.002*""tell"" + 0.002*""home"" + 0.002*""pay"""
+6,"0.009*""credit"" + 0.005*""account"" + 0.005*""bank"" + 0.005*""pay"" + 0.004*""tell"" + 0.004*""request"" + 0.004*""get"" + 0.003*""report"" + 0.003*""would"" + 0.003*""payment"""
+7,"0.013*""account"" + 0.012*""credit"" + 0.010*""call"" + 0.009*""report"" + 0.008*""bank"" + 0.007*""receive"" + 0.007*""pay"" + 0.007*""tell"" + 0.007*""payment"" + 0.007*""say"""
+8,"0.006*""credit"" + 0.005*""account"" + 0.005*""call"" + 0.005*""payment"" + 0.004*""card"" + 0.004*""make"" + 0.004*""would"" + 0.004*""bank"" + 0.004*""say"" + 0.004*""money"""
