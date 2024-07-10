@@ -4,3 +4,7 @@ venv/
 ".vscode/" 
 "*.pyc" 
 "__pycache__/" 
+"venv/" 
+".vscode/" 
+"*.pyc" 
+"__pycache__/" 
