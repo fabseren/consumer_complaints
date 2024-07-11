@@ -57,3 +57,6 @@ The results of the analysis are saved in the following files:
 + gensim_lda_topics.csv: Topics extracted using Gensim LDA.
 + gensim_lda_topics.png: Plot of Gensim LDA topics.
 + coherence_scores.png: Plot of coherence scores to determine the optimal number of topics.
+
+## Note
+Due to the massive amount of data contained in the consumer_complaints.csv file, the keyBERT keywords extraction and the coherence score are calculated just on a random 1% sample of the dataset. To adjust the percentage of the utilised sample according to your available computation power, modify line 56 for keyBERT extraction and line 175 for the coherence score calculation.
